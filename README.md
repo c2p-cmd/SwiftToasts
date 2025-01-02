@@ -1,5 +1,8 @@
 # SwiftToasts Library
 
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fc2p-cmd%2FSwiftToasts%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/c2p-cmd/SwiftToasts)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fc2p-cmd%2FSwiftToasts%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/c2p-cmd/SwiftToasts)
+
 ## Overview
 SwiftToasts is a lightweight, interactive toast notification library for SwiftUI that provides an elegant way to display temporary messages in iOS applications.
 
